@@ -1,40 +1,23 @@
 ![Hackathon Logo](documentation/images/hackathon.png?raw=true "Hackathon Logo")
+# Content Editor SPE Reports and Tools
 
-# Submission Boilerplate
+By SiteTroopers (Prasanth N., Pablo B., Byron C.)
 
-Welcome to Sitecore Hackathon 2019.
+## Summary
 
-The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hackathon-2019/
+**Category:** Best use of SPE to help Content authors and Marketers
 
-The purpose of this repository is to provide a sample which shows how to structure the Hackathon submissions.
+This module includes reports and tools developed in SPE to help Content Authors and Marketers obtain quick and important information about the project they are working on. The following is a list of the tools and reports included in this package:
+
+- Items Created by Given User Before or After Certain Date
+- Items Updated by Given User Before or After Certain Date
+- Items by Workflow State
+- Items with Given Goal
+- Deep Compare Items Between Master and Web
+- Never Publish Pages Report
+- Disabled Analytics Pages Report
+- My Latest Modified Publishable Items
+- Publish My Latest Modified Publishable Items
+- Edit All Fields
 
 Submission Video at https://youtu.be/CayrlOEpK34
-
-
-## Entry Submission Requirements 
-
-All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on **Friday March 1st 2019 at 8PM EST**. The modules should be based on [Sitecore 9.1 (Initial Release)](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/91/Sitecore_Experience_Platform_91_Initial_Release.aspx).
-
-**Failure to meet any of the requirements will result in automatic disqualification.** Please reach out to any of the organisers or judges if you require any clarification.
-
-- Sitecore 9.1 (Initial Release) Module (Module install package)
-   - An installation Sitecore Package (`.zip` or `.update`)
-
-- Module code in a public Git source repository. We will be judging (amongst other things):
-  - Cleanliness of code
-  - Commenting where necessary
-  - Code Structure
-  - Standard coding standards & naming conventions
-
-- Precise and Clear Installation Instructions document (1 – 2 pages)
-- Module usage documentation on [Readme.md](documentation) file on the Git Repository (2 – 5 pages)
-  - Module Purpose
-  - Module Sitecore Hackathon Category
-  - How does the end user use the Module?
-  - Screenshots, etc.
-
-- Create a 2 – 10 minutes video explaining the module’s functionality (A link to youtube video)
-
-  - What problem was solved
-  - How did you solve it
-  - What is the end result
