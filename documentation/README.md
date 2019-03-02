@@ -21,7 +21,7 @@ This module includes reports and tools developed in SPE to help Content Authors 
 
 ## Pre-requisites
 
-The only pre-requisite for these tools and reports to work is to have the Full Sitecore PowerShell Extensions 5.0 installed in your Sitecore instance.
+The only pre-requisite for these tools and reports to work is to have the Full Sitecore PowerShell Extensions 5.0 installed in your Sitecore 9.1 instance.
 
 ## Installation
 
