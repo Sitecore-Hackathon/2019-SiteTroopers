@@ -20,6 +20,6 @@ This module includes reports and tools developed in SPE to help Content Authors 
 - Publish My Latest Modified Publishable Items
 - Edit All Fields
 
-**Detailed Documentation** https://github.com/Sitecore-Hackathon/2019-SiteTroopers/blob/master/documentation/README.md
+**Detailed Documentation:** [Documentation](https://github.com/Sitecore-Hackathon/2019-SiteTroopers/blob/master/documentation/README.md)
 
-**Submission Video** https://youtu.be/CayrlOEpK34
+**Submission Video:** https://youtu.be/CayrlOEpK34
