@@ -26,7 +26,7 @@ The only pre-requisite for these tools and reports to work is to have the Full S
 ## Installation
 
 - Go to Development Tools -> Installation Wizard.
-- Upload the (.zip package)[https://github.com/Sitecore-Hackathon/2019-SiteTroopers/blob/master/sc.package/Content%20Editor%20SPE%20Tools%20and%20Reports-1.0.zip].
+- Upload the [.zip package](https://github.com/Sitecore-Hackathon/2019-SiteTroopers/blob/master/sc.package/Content%20Editor%20SPE%20Tools%20and%20Reports-1.0.zip).
 - Click on Install and wait for the installation process to finish.
 - Make sure you restart the Sitecore client after installation is finished.
 
