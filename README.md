@@ -7,7 +7,7 @@ By SiteTroopers (Prasanth N., Pablo B., Byron C.)
 
 **Category:** Best use of SPE to help Content authors and Marketers
 
-This module includes reports and tools developed in SPE to help Content Authors and Marketers obtain quick and important information about the project they are working on. The following is a list of the tools and reports included in this package:
+This module includes reports and tools developed in SPE to help Content Authors and Marketers obtain quick and important information about the content they are working on. The following is a list of the tools and reports included in this package:
 
 - Items Created by Given User Before or After Certain Date
 - Items Updated by Given User Before or After Certain Date
