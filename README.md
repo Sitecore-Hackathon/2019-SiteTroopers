@@ -8,6 +8,8 @@ The Hackathon site can be found at http://www.sitecorehackathon.org/sitecore-hac
 
 The purpose of this repository is to provide a sample which shows how to structure the Hackathon submissions.
 
+Submission Video at https://youtu.be/CayrlOEpK34
+
 
 ## Entry Submission Requirements 
 
