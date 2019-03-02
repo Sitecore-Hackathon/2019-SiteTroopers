@@ -44,7 +44,7 @@ The following is a description on how to use each report included in the package
 
 ### Items Created by Given User Before or After Certain Date
 
-This report shows all the items that have been created before or after the specified date/time.
+This report shows all the items that have been created before or after the specified date/time by user.
 
 ![icxgubad](images/items-created-by-given-user-before-or-after-certain-date.jpg "icxgubad")
 
@@ -56,7 +56,7 @@ This report shows all the items that have been created before or after the speci
 
 ### Items Updated by Given User Before or After Certain Date
 
-This report shows all the items that have been updated before or after the specified date/time.
+This report shows all the items that have been updated before or after the specified date/time by user.
 
 ![iuxgubad](images/items-updated-by-given-user-before-or-after-certain-date.jpg "iuxgubad")
 
@@ -68,7 +68,7 @@ This report shows all the items that have been updated before or after the speci
 
 ### Items by Workflow State
 
-This report shows all items that are on the specified Workflow State.
+This report shows all items that are in the specified Workflow State.
 
 ![workflow](images/items-by-workflow-state.jpg "workflow")
 
@@ -118,7 +118,7 @@ This report shows the items modified by the current user before or after the sel
 
 1. Choose the Report Root to search for items
 2. Choose a date and/or time
-3. Choose a Period, Before for items modified before the selected date/time, After for items modified after the selected date/time
+3. Choose a Period, "Before" for items modified before the selected date/time, "After" for items modified after the selected date/time
 4. Run the Report
 
 ### Publish My Latest Modified Publishable Items
@@ -129,14 +129,14 @@ This report shows the items modified by the current user before or after the sel
 
 1. Choose the Report Root to search for items
 2. Choose a date and/or time
-3. Choose a Period, Before for items modified before the selected date/time, After for items modified after the selected date/time
+3. Choose a Period, "Before" for items modified before the selected date/time, "After" for items modified after the selected date/time
 4. Run the Publish. You will get a report of the pages published.
 
 ### Edit All Fields
 
 This tool allows editors in Experience Editor to easily find all editable fields and edit them on the fly.
 
-When selecting any editable field in Experience Editor, in the pop-up ribbon you will find this new button:
+When selecting any editable fields in Experience Editor, in the pop-up ribbon you will find this new button:
 
 ![editbutton](images/edit-all-fields-button.jpg "editbutton")
 
